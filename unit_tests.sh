@@ -1,1 +1,1 @@
-echo "Integration Tests PASS"
+echo "Unit Tests PASS"
